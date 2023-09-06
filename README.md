@@ -1,0 +1,2 @@
+# amazon_scraping_google_spredsheet
+amazonの商品レビューを採取。Googoleのスプレッドシートに結果を書き込みます。
