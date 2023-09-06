@@ -15,7 +15,7 @@ import gspread
 secret_credentials_json_oath = 'key\key.json'
 
 #スプレッドシートIDを変数に格納する。
-SPREADSHEET_KEY = '1KnhYFcY-RKRPwIopC7x1larruoxwEHwuCaKQ7UEwGuI'
+SPREADSHEET_KEY = 'スプレッドシートID'
 
 def get_amazon_page_info(url):
     text = ""                               #　初期化
